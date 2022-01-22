@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dennis</h1>
+<h1 align="center">Hi 👋, everyone</h1>
 <h3 align="center">A passionate frontend developer from Colombia</h3>
 
 - 👨‍💻 All of my projects are available at [https://dennisear.github.io/curriculum-vitae-2022/](https://dennisear.github.io/curriculum-vitae-2022/)
