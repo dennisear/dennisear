@@ -1,4 +1,4 @@
-<h1 align="center"> <img src="den.gif" width="70%" heigth="auto"></h1>
+<h1 align="center"> <img src="denn.gif" width="70%" heigth="auto"></h1>
 
 
 
