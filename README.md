@@ -1,5 +1,5 @@
-<h1 align="center"> <img src="den.gif"></h1>
-<h3 align="center">I'm Dennis </br> A passionate frontend developer from Colombia</h3>
+<h1 align="center"> <img src="den.gif" width="50%" heigth="auto"></h1>
+
 
 
 - 👨‍💻 All of my projects are available at [https://dennisear.github.io/curriculum-vitae-2022/](https://dennisear.github.io/curriculum-vitae-2022/)
