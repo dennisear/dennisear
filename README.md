@@ -1,4 +1,4 @@
-<h1 align="center"> <img src="hi.png"></h1>
+<h1 align="center"> <img src="den.gif"></h1>
 <h3 align="center">I'm Dennis </br> A passionate frontend developer from Colombia</h3>
 
 
