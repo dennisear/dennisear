@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, everyone</h1>
 <h3 align="center">A passionate frontend developer from Colombia</h3>
-<img src="hi.jpg">
+<img src="hi.png">
 <video src="i'm.mp4" width="640" height="480"></video>
 
 - 👨‍💻 All of my projects are available at [https://dennisear.github.io/curriculum-vitae-2022/](https://dennisear.github.io/curriculum-vitae-2022/)
